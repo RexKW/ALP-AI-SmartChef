@@ -4,7 +4,9 @@ Node.js/Express backend and a React/Vite frontend.
 
 Follow the instructions below to set up and run the application.
 
-= FEATURES
+
+                               # Features
+
 
 
 * Scan Image to detect ingredients using AI
@@ -13,17 +15,17 @@ Follow the instructions below to set up and run the application.
 
 * Recipe Finder based on the Ingredients using MealDB API
 
-=============================================================================
-                               PREREQUISITES
-=============================================================================
+
+                              # PREREQUISITES
+
 
 1. Node.js (v18+ recommended)
 2. PostgreSQL (Database)
 3. Google Gemini API Key (For AI features)
 
-=============================================================================
-                              BACKEND SETUP
-=============================================================================
+
+                            #  BACKEND SETUP
+
 
 1. Navigate to the backend directory:
    cd BackEnd
@@ -49,9 +51,9 @@ Follow the instructions below to set up and run the application.
 6. Start the Server:
    npm run dev
 
-=============================================================================
-                              FRONTEND SETUP
-=============================================================================
+
+                             # FRONTEND SETUP
+
 
 1. Navigate to the frontend directory:
    cd FrontEnd/aismartschefweb/smart-chef-app
@@ -67,9 +69,9 @@ Follow the instructions below to set up and run the application.
 
    Access the app at: http://localhost:5173
 
-=============================================================================
-                             TROUBLESHOOTING
-=============================================================================
+
+                            # TROUBLESHOOTING
+
 
 * "fs" Module Error in Frontend: 
   The frontend package.json includes "fs" which is a Node.js server-side module. 
