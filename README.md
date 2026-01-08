@@ -38,11 +38,11 @@ Follow the instructions below to set up and run the application.
 
 4. Configure Environment Variables:
    Create a file named ".env" in the backend folder and add:
-   -------------------------------------------------------
+   
    PORT=3000
    DATABASE_URL="postgresql://username:password@localhost:5432/your_db_name?schema=public"
    API_KEY="your_google_gemini_api_key"
-   -------------------------------------------------------
+   
 
 5. Setup Database:
    npx prisma generate
@@ -83,5 +83,6 @@ Follow the instructions below to set up and run the application.
 
 * AI Features: 
   If scanning fails, verify your API_KEY is active and has credits.
+
 
 
