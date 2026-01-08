@@ -5,7 +5,7 @@ Node.js/Express backend and a React/Vite frontend.
 Follow the instructions below to set up and run the application.
 
 
-                               # Features
+# Features
 
 
 
@@ -16,7 +16,7 @@ Follow the instructions below to set up and run the application.
 * Recipe Finder based on the Ingredients using MealDB API
 
 
-                              # PREREQUISITES
+# PREREQUISITES
 
 
 1. Node.js (v18+ recommended)
@@ -24,7 +24,7 @@ Follow the instructions below to set up and run the application.
 3. Google Gemini API Key (For AI features)
 
 
-                            #  BACKEND SETUP
+#  BACKEND SETUP
 
 
 1. Navigate to the backend directory:
@@ -52,7 +52,7 @@ Follow the instructions below to set up and run the application.
    npm run dev
 
 
-                             # FRONTEND SETUP
+# FRONTEND SETUP
 
 
 1. Navigate to the frontend directory:
@@ -70,7 +70,7 @@ Follow the instructions below to set up and run the application.
    Access the app at: http://localhost:5173
 
 
-                            # TROUBLESHOOTING
+# TROUBLESHOOTING
 
 
 * "fs" Module Error in Frontend: 
@@ -83,4 +83,5 @@ Follow the instructions below to set up and run the application.
 
 * AI Features: 
   If scanning fails, verify your API_KEY is active and has credits.
+
 
