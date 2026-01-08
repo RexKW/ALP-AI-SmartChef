@@ -4,9 +4,8 @@ Node.js/Express backend and a React/Vite frontend.
 
 Follow the instructions below to set up and run the application.
 
-=============================================================================
-                                 FEATURES
-=============================================================================  
+= FEATURES
+
 
 * Scan Image to detect ingredients using AI
 
@@ -82,3 +81,4 @@ Follow the instructions below to set up and run the application.
 
 * AI Features: 
   If scanning fails, verify your API_KEY is active and has credits.
+
