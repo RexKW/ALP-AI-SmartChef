@@ -48,7 +48,10 @@ Follow the instructions below to set up and run the application.
    npx prisma generate
    npx prisma migrate dev --name init
 
-6. Start the Server:
+6. Build the Server:
+   npm run build
+
+7. Start the Server:
    npm run dev
 
    if npm run dev does not work
@@ -86,6 +89,7 @@ Follow the instructions below to set up and run the application.
 
 * AI Features: 
   If scanning fails, verify your API_KEY is active and has credits.
+
 
 
 
