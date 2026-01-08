@@ -51,6 +51,9 @@ Follow the instructions below to set up and run the application.
 6. Start the Server:
    npm run dev
 
+   if npm run dev does not work
+   npm start
+
 
 # FRONTEND SETUP
 
@@ -83,6 +86,7 @@ Follow the instructions below to set up and run the application.
 
 * AI Features: 
   If scanning fails, verify your API_KEY is active and has credits.
+
 
 
 
